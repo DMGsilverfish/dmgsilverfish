@@ -2,10 +2,10 @@
 
 My name is Daniel, and I am a NMU trained Software Developer interested in all things IT!
 
-- 🔭 I’m currently working on [RectifyIt](http://rectifyit.co.za), a direct Customer to Owner communication platform
-- 📫 I recently built a web-app for [Algoa Vehicle Traders](https://www.algoavehicletraders.co.za), an Auto Dealership thats sells Cars, Bikes, Boats, Caravans and Trailers
-- 🌱 I’m currently learning Angular 20 as well as React and Node, check it out [here](https://github.com/DMGsilverfish/second-angular-app)
-- 👯 I’m looking to collaborate on anything interesting and new!
+- 🔭  I’m currently working on [RectifyIt](http://rectifyit.co.za), a direct Customer to Owner communication platform
+- 📫  I recently built a web-app for [Algoa Vehicle Traders](https://www.algoavehicletraders.co.za), an Auto Dealership thats sells Cars, Bikes, Boats, Caravans and Trailers
+- 🌱  I’m currently learning Angular 20 as well as React and Node, check it out [here](https://github.com/DMGsilverfish/second-angular-app)
+- 👯  I’m looking to collaborate on anything interesting and new!
 <!--
 **DMGsilverfish/dmgsilverfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
