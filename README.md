@@ -11,5 +11,8 @@ My name is Daniel, and I am a NMU trained Software Developer 👨‍🎓 interes
 [![Angular Version](https://img.shields.io/badge/Angular-20-red)](https://angular.io)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5.0-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5.0-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/programming-guide/concepts/linq/)
+
