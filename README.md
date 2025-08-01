@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Daniel, and I am a NMU trained Software Developer interested in all things IT!
+My name is Daniel, and I am a NMU trained Software Developer 👨‍🎓 interested in all things IT! 💻
 
 - 🔭  I’m currently working on [RectifyIt](http://rectifyit.co.za), a direct Customer to Owner communication platform
 - 📫  I recently built a web-app for [Algoa Vehicle Traders](https://www.algoavehicletraders.co.za), an Auto Dealership thats sells Cars, Bikes, Boats, Caravans and Trailers
