@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Angular Projects and a Customer to Owner review platform
+- 🌱 I’m currently learning Angular 20 as well as React and Node
+- 👯 I’m looking to collaborate on anything interesting
 <!--
 **DMGsilverfish/dmgsilverfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
