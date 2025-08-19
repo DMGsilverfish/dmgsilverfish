@@ -10,6 +10,7 @@ My name is Daniel, and I am a NMU trained Software Developer 👨‍🎓 interes
 
 [![ASP.NET Core Version](https://img.shields.io/badge/ASP.NET%20Core-8.0-blue)](https://learn.microsoft.com/aspnet/core/)
 [![Angular Version](https://img.shields.io/badge/Angular-20-red)](https://angular.io)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5.0-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
