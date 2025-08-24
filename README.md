@@ -4,7 +4,7 @@ My name is Daniel, and I am a NMU trained Software Developer 👨‍🎓 interes
 
 - 🔭  I’m currently working on [RectifyIt](http://rectifyit.co.za), a direct Customer to Owner communication platform
 - 🚗  I recently built a web-app for [Algoa Vehicle Traders](https://www.algoavehicletraders.co.za), an Auto Dealership thats sells Cars, Bikes, Boats, Caravans and Trailers
-- 🌱  I’m currently learning Angular 20 as well as React and Node, check it out [here](https://github.com/DMGsilverfish/second-angular-app)
+- 🌱  I’m currently learning Angular 20 as well as React.js, Zone.js and Node.js, check it out [here](https://github.com/DMGsilverfish/second-angular-app)
 - 👯  I’m looking to collaborate on anything interesting and new! <a href="Daniel_Gibson_CV.pdf" target="_blank">📄 View My CV</a>
 - 🌐  I also have a portfolio [here](https://danielgibson.co.za/) or find me on [LinkDin](https://www.linkedin.com/in/daniel-gibson-8840b8274/)
 
