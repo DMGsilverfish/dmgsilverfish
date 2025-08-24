@@ -7,7 +7,8 @@ My name is Daniel, and I am a NMU trained Software Developer 👨‍🎓 interes
 - 🌱  I’m currently learning Angular 20 as well as React and Node, check it out [here](https://github.com/DMGsilverfish/second-angular-app)
 - 👯  I’m looking to collaborate on anything interesting and new! <a href="Daniel_Gibson_CV.pdf" target="_blank">📄 View My CV</a>
 - 🌐  I also have a portfolio [here](https://danielgibson.co.za/) or find me on [LinkDin](https://www.linkedin.com/in/daniel-gibson-8840b8274/)
-- 🎮  I also game, have built my own PC from scratch and done LAN setups 🔌
+
+
 
 [![ASP.NET Core Version](https://img.shields.io/badge/ASP.NET%20Core-8.0-blue)](https://learn.microsoft.com/aspnet/core/)
 [![Angular Version](https://img.shields.io/badge/Angular-20-red)](https://angular.io)
