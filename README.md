@@ -20,13 +20,6 @@ My name is Daniel, and I am a NMU trained Software Developer 👨‍🎓 interes
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/programming-guide/concepts/linq/)
 
-### 🛠️ Languages I Use Most
-
-<!-- Dark mode -->
-![Top Langs](https://stats.dooboo.io/api/top-langs?username=DMGsilverfish&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only)
-
-<!-- Light mode -->
-![Top Langs](https://stats.dooboo.io/api/top-langs?username=DMGsilverfish&layout=compact&langs_count=8&theme=default#gh-light-mode-only)
 
 
 
