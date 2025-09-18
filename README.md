@@ -23,7 +23,13 @@ My name is Daniel, and I am a NMU trained Software Developer 👨‍🎓 interes
 ### 🛠️ Languages I Use Most
 
 <!-- Dark mode -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMGsilverfish&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only)
+![Top Langs](https://stats.dooboo.io/api/top-langs?username=DMGsilverfish&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only)
+
+<!-- Light mode -->
+![Top Langs](https://stats.dooboo.io/api/top-langs?username=DMGsilverfish&layout=compact&langs_count=8&theme=default#gh-light-mode-only)
+
+
+
 
 
 
